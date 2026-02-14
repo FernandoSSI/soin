@@ -13,6 +13,12 @@ dependencies = [
     "pydantic>=2.0.0",
 ]
 
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
 [build-system]
 requires = ["uv_build>=0.9.28,<0.10.0"]
 build-backend = "uv_build"
@@ -21,4 +27,5 @@ build-backend = "uv_build"
 dev = [
     "pytest>=8.0.0",
     "ruff>=0.3.0", # Linter e formatter ultra-rápido
+    "twine>=6.2.0",
 ]
