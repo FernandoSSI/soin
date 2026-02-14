@@ -22,4 +22,4 @@
 ## Installation
 
 ```bash
-pip install soin
+pip install soin-ai

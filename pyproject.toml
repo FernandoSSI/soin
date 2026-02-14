@@ -1,6 +1,6 @@
 [project]
 name = "soin-ai"
-version = "0.1.0"
+version = "0.1.0.1"
 description = "Simple Optimized Instruction Network: A nimble prompt management library."
 readme = "README.md"
 authors = [
