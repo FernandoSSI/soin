@@ -29,6 +29,3 @@ dev = [
     "ruff>=0.3.0", # Linter e formatter ultra-rápido
     "twine>=6.2.0",
 ]
-
-[tool.hatch.build.targets.wheel]
-packages = ["src/soin"]
