@@ -1,6 +1,6 @@
 <div align="center">
     <picture>
-      <img alt="LangChain Logo" src=".github/images/banner.jpg" style="border-radius: 10px;">
+      <img alt="Soin Logo" src=".github/images/banner.jpg" style="border-radius: 10px;">
       <!-- <img alt="LangChain Logo" src=".github/images/logo.jpg" width="200px" style="border-radius: 20%;"> -->
     </picture>
 </div>
