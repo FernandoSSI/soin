@@ -1,5 +1,5 @@
 [project]
-name = "soin"
+name = "soin-ai"
 version = "0.1.0"
 description = "Simple Optimized Instruction Network: A nimble prompt management library."
 readme = "README.md"
@@ -29,3 +29,6 @@ dev = [
     "ruff>=0.3.0", # Linter e formatter ultra-rápido
     "twine>=6.2.0",
 ]
+
+[tool.hatch.build.targets.wheel]
+packages = ["src/soin"]
